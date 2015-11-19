@@ -99,3 +99,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.flv
+*.mp4
+*.png
+*.mov
+*.jpg
+*.webm
+*.mp3
